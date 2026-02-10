@@ -8,6 +8,9 @@
 # The goal of this assignment is to practice with divide and conquer by applying that technique to compute the maximum
 # forward difference of a sequence.
 
+#No way
+
+
 import sys
 
 def main():
